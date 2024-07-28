@@ -6,7 +6,7 @@ This project demonstrates how to use the OpenAI API to create a language model a
 
 To summarize, when precise data is needed, the large model should not make random guesses(hallucination). Instead, it should use tools to obtain accurate results. These tools can be mathematical functions or external APIs.
 
-![pic](/Users/xiaoxiongweng/Documents/projects/agent_development/pic.png)
+![pic](./pic.png)
 
 
 
