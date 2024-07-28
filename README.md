@@ -1,4 +1,4 @@
-# function call demo
+# function calling demo
 
 ## Author: wengxiaoxiong
 
@@ -32,7 +32,7 @@ The key components include:
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/wengxiaoxiong/function-call-demo.git
+    git clone https://github.com/wengxiaoxiong/function-calling-demo.git
     cd function-call-demo
     ```
 
